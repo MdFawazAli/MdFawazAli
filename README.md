@@ -1,6 +1,8 @@
 # Hi 👋, I am Mohammed Fawaz Ali 
 **A passionate Software Engineer || Full-stack Web Developer || from India**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdFawazAli&label=Profile%20views&color=0e75b6&style=flat" alt="MdFawazAli" /> </p>
+
 Email Me 👉 ✉️ **fawazzali786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmefzm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-fawaz-ali-a54589336) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FAZZMEE) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fawazzali786@gmail.com) 
