@@ -14,11 +14,11 @@ jobs:
         with:
           github_user_name: MdFawazAli
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-          # Customize colors
+            dist/github-snake-dark.svg
           color_snake: "#00FF00"
-          color_dots: "#444,#666,#888,#AAA,#CCC"
-          background: "transparent"  # You can also try "#000000" for black
+          color_dots: "#3c3c3c,#4d4d4d,#5e5e5e,#6f6f6f,#808080"
+          background: "transparent"
+
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
