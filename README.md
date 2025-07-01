@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **fawazzali786@gmail.com** For Collaboration/Project or Any
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MdFawazAli/MdFawazAli/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake animation" />
+  <img src="https://raw.githubusercontent.com/MdFawazAli/MdFawazAli/output/github-snake-dark.svg" alt="Snake animation dark mode" />
 </div>
 
 
