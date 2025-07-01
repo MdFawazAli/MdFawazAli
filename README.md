@@ -12,10 +12,7 @@ Email Me 👉 ✉️ **fawazzali786@gmail.com** For Collaboration/Project or Any
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MdFawazAli/MdFawazAli/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
-
+![snake gif](https://github.com/MdFawazAli/MdFawazAli/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdFawazAli&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
