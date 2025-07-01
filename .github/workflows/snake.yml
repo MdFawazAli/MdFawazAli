@@ -17,7 +17,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg
           # Customize colors
           color_snake: "#00FF00"
-          color_dots: "#444", "#666", "#888", "#AAA", "#CCC"
+          color_dots: "#444,#666,#888,#AAA,#CCC"
           background: "transparent"  # You can also try "#000000" for black
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
